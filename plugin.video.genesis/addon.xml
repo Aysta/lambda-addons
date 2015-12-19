@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.genesis" name="Genesis" version="5.1.4" provider-name="lambda">
+<addon id="plugin.evolution.flix" name="EvolutionFLiX" version="1.0.0" provider-name="Bower">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0" />
 		<import addon="script.module.requests" version="1.0.0" />
@@ -11,12 +11,12 @@
 	</extension>
 	<extension point="xbmc.service" library="service.py" start="startup" />
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">The origins of streaming</summary>
-		<description lang="en">Visit TVADDONS.ag for support</description>
-		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. The author does not have any affiliation with the content provider.</disclaimer>
-		<forum>http://forums.tvaddons.ag/forums/148-lambda-s-xbmc-addons</forum>
-		<source>https://offshoregit.com/lambda81/</source>
-		<website>https://offshoregit.com/lambda81/</website>
+		<summary lang="en">Watch Shows and Movies</summary>
+		<description lang="en">Based on Genesis but pre configured to bring you results as fast as poosible. Credit for all the coding goes to lambda</description>
+		<disclaimer lang="en">The author does not host or distribute any of the content displayed by this addon. </disclaimer>
+		<forum>facebook.com/evolutionflix</forum>
+		<source>http://facebook.com/evolutionflix</source>
+		<website>https://facebook.com/evolutionflix</website>
 		<platform>all</platform>
 	</extension>
 </addon>
